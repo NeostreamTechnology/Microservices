@@ -1,0 +1,27 @@
+{
+    "david": {
+        "id":1,
+        "name":"David Ngugi",
+        "verified":1
+    },
+    "Victor": {
+        "id":2,
+        "name":"Victor Mwangi",
+        "verified":1
+    },
+    "daniel": {
+        "id":3,
+        "name":"Daniel Maina",
+        "verified":1
+    },
+    "kariuki": {
+        "id":5,
+        "name":"Victor Kariuki",
+        "verified":0
+    },
+    "solomon": {
+        "id":4,
+        "name":"Solomon Ndung'u",
+        "verified":0
+    }
+}

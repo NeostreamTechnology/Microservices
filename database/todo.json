@@ -1,0 +1,30 @@
+{
+    "kariuki": {
+        "home": [
+            "Buy milk",
+            "Look for pest control service",
+            "Get a new carpet"
+        ],
+        "work": [
+            "Complete the blogpost",
+            "Create presentation for meeting"
+        ]
+    },
+    "david": {
+        "home": [
+            "Eat",
+            "Finish up eating",
+            "Get a car"
+        ],
+        "work": [
+            "Complete the blogpost",
+            "Create presentation for meeting"
+        ]
+    },
+    "solomon": {
+        "school": [
+            "Complete homework",
+            "Prepare for test"
+        ]
+    }
+}
