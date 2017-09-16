@@ -12,6 +12,8 @@ git clone `https://github.com/NeostreamTechnology/Microservices`
 
 ### Installation 
 
+`source venv/bin/activate`
+
 Do  `pip install -r requirements.txt `
 
 ### Running
